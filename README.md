@@ -1,6 +1,6 @@
 # The first Readme.md
 
-This is my first **Readme** file 
+This is my first **Readme** file, 
 in which i will be learning how to make readme file with different elments 
 
 - 👋 Hi, I’m @kapsepratik
